@@ -20,3 +20,4 @@ import pandas as pd
 df = pd.read_csv("https://github.com/pablormier/kaggle-lish-moa-annotated/raw/master/lish_moa_annotated.csv.zip")
 df
 ```
+![dataframe](https://github.com/pablormier/kaggle-lish-moa-annotated/raw/master/img/dataframe.png)
